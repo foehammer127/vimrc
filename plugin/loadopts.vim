@@ -1,5 +1,7 @@
 set backspace=indent,eol,start
 
+set autoindent
+
 " No Errorbells 
 set noerrorbells
 
